@@ -1,6 +1,6 @@
 # Minha História
 Meu Nome é Antonio Marcos dos Santos de Souza, tenho 34 anos, nascido em Curitiba Paraná, 
-casado com Ana Paula. Filho de Maria e Claudino, irmão de seis irmãos.
+casado com Ana Paula. Filho de Maria e Claudino.
 ## Coisas que eu gosto de fazer:
 
 1. __Jogar futebol__   
