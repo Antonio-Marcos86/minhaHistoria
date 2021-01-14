@@ -12,7 +12,7 @@ Gosto de jogar futebol com amigos e com meus irmãos. Atualmente parado por caus
 
 Sou leitor compulsivo por livros de ficção, economia e religioso.
 
-3. __Assistir filmes__ 
+3. __Assistir filmes e series__ 
    
     <img src="https://user-images.githubusercontent.com/71250901/104600806-3e768e80-5658-11eb-88ca-cea88303dcd6.png" width="40%">
 Assisto muitos filmes e series, gosto de filmes de drama e ficção cientifica.
